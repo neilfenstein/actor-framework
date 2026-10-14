@@ -41,6 +41,7 @@
 		</Item>
 		<Item Name="Tests" Type="Folder">
 			<Item Name="Check Queue Count.vi" Type="VI" URL="../Testing/Tests/Check Queue Count.vi"/>
+			<Item Name="Check Queue enqueing order.vi" Type="VI" URL="../Testing/Tests/Check Queue enqueing order.vi"/>
 			<Item Name="Check Queue Priority Order.vi" Type="VI" URL="../Testing/Tests/Check Queue Priority Order.vi"/>
 			<Item Name="Launch Root Actor_Actor_Generates Actor Traces.vi" Type="VI" URL="../Testing/Tests/Launch Root Actor_Actor_Generates Actor Traces.vi"/>
 			<Item Name="Stop Autostop Nested Actors_Stops Nested Actors.vi" Type="VI" URL="../Testing/Tests/Stop Autostop Nested Actors_Stops Nested Actors.vi"/>
